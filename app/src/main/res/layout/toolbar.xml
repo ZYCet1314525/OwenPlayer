@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:id="@+id/toolbar"
+android:background="@color/design_default_color_primary_variant"
+android:layout_height="?attr/actionBarSize" >
+    <!--  layout_height="?attr/actionBarSize"   根据主机自动适配高度-->
+</androidx.appcompat.widget.Toolbar>
